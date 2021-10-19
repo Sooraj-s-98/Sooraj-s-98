@@ -29,5 +29,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sooraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooraj-s-98-fresherdeveloper)](https://www.linkedin.com/in/sooraj-s-98-fresherdeveloper)  [![Instagram Badge](https://img.shields.io/badge/-@__sooraj_s-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me__sooraj_s/)](https://www.instagram.com/__sooraj_s/)
 
+ <a href="https://stackoverflow.com/users/13152553/sooraj-s"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+
 
 <a href="https://github.com/sooraj-s-98" target="_blank"> <img src="https://user-images.githubusercontent.com/42378118/108804235-bb374980-75c2-11eb-8ce0-8ec50dd204cd.jpg" alt="github" width="500" height="300"/> </a>
