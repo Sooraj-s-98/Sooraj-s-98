@@ -22,7 +22,7 @@
     </p>
 
 
-- :hourglass_flowing_sand: Experimenting with JS and learning React
+- :hourglass_flowing_sand: Experimenting with JS
 
 
 <h2 align="left">Let's get connected:</h2>
