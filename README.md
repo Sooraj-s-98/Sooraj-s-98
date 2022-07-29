@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Sooraj S.<br>
   <br> I'm a Full Stack Developer. <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
  </abc>
 </h2> 
 <h2 align="left">Languages and Tools:</h2>
